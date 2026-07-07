@@ -1,6 +1,8 @@
 # NewsMania AI 📰🚀
 
 > **AI-Powered Personalized Tech News & Daily Briefing Platform**
+> 
+> **🔗 Live Demo**: [https://newsmania-y0o7.onrender.com](https://newsmania-y0o7.onrender.com)
 
 NewsMania AI is a production-grade full-stack SaaS platform designed for tech developers and enthusiasts. It aggregates live tech news, categorizes articles, scores user interests to generate personalized feeds, and leverages Google Gemini AI to provide automatic summarizations, "Explain Like I'm 10" (ELF10) simplified tech explanations, and auto-compiled daily briefings.
 
